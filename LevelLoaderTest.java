@@ -25,7 +25,7 @@ class LevelLoader {
     }
 }
 
-class LevelLoaderTest {
+public class LevelLoaderTest {
     public static void main(String[] args) {
         //Level loaded
         try {
