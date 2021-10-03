@@ -1,5 +1,3 @@
-package hw5.hw29;
-
 class Level {
     private int width;
     private int height;
